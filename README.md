@@ -28,12 +28,23 @@ Python script to extract questions, answers and linked images from an ask.fm-acc
 #                                                           #
 # All files will be placed in the current directory.        #
 #                                                           #
-# As said, this is a quick & dirty script that does the job.#
+# As said, this is a quick & dirty script that does the job #
+# (as of today, of course ask.fm may change their website   #
+# structure later so that this script has to be adapted)    #
+#                                                           #
 # (Almost) no exception or error handling has been          #
 # implemented yet, this may be added in later versions.     #
 #                                                           #
 #############################################################
 
+#############################################################
 # Version 1.0 (01-May-2018)
 # by LordOfTheSnow
 # GitHub: https://github.com/LordOfTheSnow/AskFM-Grabber
+#
+# published under GNU General Public License v3.0
+# see https://choosealicense.com/licenses/gpl-3.0/
+#
+# Please ensure that you have the right to grab something from a website with this script
+# I do not take any legal responsibilities for a misuse of this script
+#############################################################
