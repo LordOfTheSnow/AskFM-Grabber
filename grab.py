@@ -11,6 +11,10 @@
 #                                                           #
 # $ pip install beautifulsoup4                              #
 #                                                           #
+# You may also need to install requests and lmxl            #
+# $ pip install requests                                    #
+# $ pip install lxml                                        #
+#                                                           #
 #   see https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup
 #                                                           #
 #                                                           #
